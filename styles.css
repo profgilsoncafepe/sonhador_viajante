@@ -7,7 +7,7 @@
 
 }
 .banner{
-    width: 1440px;
+    width: auto;
     height:341px;
     display: flex;
 }
